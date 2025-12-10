@@ -85,4 +85,4 @@ const Ethrineaa = {
 
 ### My Github Stast
 
-![Ethrineaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethrineaa)
+![Ethrineaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethrineaa&show_icons=true&theme=gruvbox)
