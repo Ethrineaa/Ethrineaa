@@ -82,3 +82,7 @@ const Ethrineaa = {
 
 ### 🔧 Tools  
 [![Tools](https://skillicons.dev/icons?i=vscode,postman,figma,docker,git,github&perline=10)](https://skillicons.dev)
+
+### My Github Stast
+
+![Ethrineaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethrineaa)
