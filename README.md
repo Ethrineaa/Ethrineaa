@@ -1,7 +1,5 @@
 # Hi Everyone 👋, I'm Ahmad Hafidz Maulana
 
-![Header Banner](img/github-header-banner.png)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile.;I+love+coding+;Focused+Web+Developer!)](https://git.io/typing-svg)
 
 <!-- Row for profile views + social media -->
@@ -76,13 +74,36 @@ const Ethrineaa = {
 ### 🛠️ Tech Arsenal
 
 ### 🚀 Tech Stack  
-[![Stack](https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,nodejs,python,mysql&perline=10)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,php,laravel,nodejs,nextjs,python,mysql,postgresql,mongodb&perline=10)](https://skillicons.dev)
 
 ---
 
 ### 🔧 Tools  
 [![Tools](https://skillicons.dev/icons?i=vscode,postman,figma,docker,git,github&perline=10)](https://skillicons.dev)
 
-### My Github Stast
+---
 
-![Ethrineaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethrineaa&show_icons=true&theme=gruvbox)
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ethrineaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ethrineaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Ethrineaa/Ethrineaa/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ethrineaa/Ethrineaa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ethrineaa/Ethrineaa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ethrineaa/Ethrineaa/output/pacman-contribution-graph.svg">
+</picture>
+
+###
