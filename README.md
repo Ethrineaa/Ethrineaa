@@ -76,7 +76,7 @@ const Ethrineaa = {
 ### 🛠️ Tech Arsenal
 
 ### 🚀 Tech Stack  
-[![Stack](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,php,laravel,nodejs,python,mysql&perline=10)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,nodejs,python,mysql&perline=10)](https://skillicons.dev)
 
 ---
 
