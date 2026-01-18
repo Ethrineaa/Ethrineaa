@@ -26,7 +26,7 @@
 - 🌱 Currently deepening my skills in **Mobile Developer** and **Full-stack Web**.
 
 - 💬 Ask me about:  
-  `Laravel` `PHP` `ReactJs` `Python` `MySQL`
+  `Laravel` `PHP`  `Python` `MySQL`
 
 - 📫 How to reach me:  
   📧 **hafidzmagfiroh633@email.com**
