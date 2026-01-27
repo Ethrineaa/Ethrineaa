@@ -33,44 +33,6 @@
 
 ---
 
-<div style="display: flex; gap: 20px; align-items: flex-start;">
-
-  <!-- CODE BLOCK -->
-  <div>
-    <pre>
-<code>
-const Ethrineaa = {
-  pronouns: "He" | "Him",
-  code: ["PHP", "JavaScript", "Python", "Dart", "HTML/CSS"],
-  
-  askMeAbout: ["Web Dev", "Student"],
-
-  technologies: {
-    frontend: {
-      js: ["React JS"],
-      css: ["Tailwind CSS", "Bootstrap"]
-    },
-    backend: {
-      tech: ["Laravel", "Next.js"]
-    },
-    codeEditor: {
-      Webdev: ["VS Code"]
-    }
-  }
-}
-</code>
-    </pre>
-  </div>
-
-  <!-- GIF -->
-  <div>
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBkaHo3cG45MGl1MXFza3dwMjAxams2bTA3dXN4cmd2bzdhanFyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jdFm2bcWlj4EUVCpc0/giphy.gif" width="240" />
-  </div>
-
-</div>
-
----
-
 ### 🛠️ Tech Arsenal
 
 ### 🚀 Tech Stack  
