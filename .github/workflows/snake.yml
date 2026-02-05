@@ -1,9 +1,9 @@
 name: Generate Snake Animation
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch:
 
 jobs:
   snake:
@@ -19,7 +19,7 @@ jobs:
           outputs: |
             dist/snake/snake.svg
 
-      - name: Deploy snake to output branch
+      - name: Deploy snake
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
