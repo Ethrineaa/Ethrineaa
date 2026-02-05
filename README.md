@@ -26,65 +26,17 @@
 - 🌱 Currently deepening my skills in **Mobile Developer** and **Full-stack Web**.
 
 - 💬 Ask me about:  
-<<<<<<< HEAD
-  `Laravel` `PHP`  `Python` `MySQL`
-=======
-  `Laravel` `PHP` `ReactJs` `Python` `MySQL`
->>>>>>> b48cb0a (sementara)
+  `Laravel` `PHP` `Python` `MySQL`
 
 - 📫 How to reach me:  
   📧 **hafidzmagfiroh633@email.com**
 
 ---
 
-### 🛠️ Tech Arsenal
+## 🛠️ Tech Arsenal
 
 ### 🚀 Tech Stack  
 [![Stack](https://skillicons.dev/icons?i=html,css,js,vue,tailwind,php,laravel,nodejs,python,mysql&perline=10)](https://skillicons.dev)
-=======
-<div style="display: flex; gap: 20px; align-items: flex-start;">
-
-  <!-- CODE BLOCK -->
-  <div>
-    <pre>
-<code>
-const Ethrineaa = {
-  pronouns: "He" | "Him",
-  code: ["PHP", "JavaScript", "Python", "Dart", "HTML/CSS"],
-  
-  askMeAbout: ["Web Dev", "Student"],
-
-  technologies: {
-    frontend: {
-      js: ["React JS"],
-      css: ["Tailwind CSS", "Bootstrap"]
-    },
-    backend: {
-      tech: ["Laravel", "Next.js"]
-    },
-    codeEditor: {
-      Webdev: ["VS Code"]
-    }
-  }
-}
-</code>
-    </pre>
-  </div>
-
-  <!-- GIF -->
-  <div>
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBkaHo3cG45MGl1MXFza3dwMjAxams2bTA3dXN4cmd2bzdhanFyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jdFm2bcWlj4EUVCpc0/giphy.gif" width="240" />
-  </div>
-
-</div>
-
----
-
-### 🛠️ Tech Arsenal
-
-### 🚀 Tech Stack  
-[![Stack](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,php,laravel,nodejs,nextjs,python,mysql,postgresql,mongodb&perline=10)](https://skillicons.dev)
->>>>>>> b48cb0a (sementara)
 
 ---
 
@@ -93,25 +45,25 @@ const Ethrineaa = {
 
 ---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
-###
+### 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ethrineaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ethrineaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ethrineaa&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ethrineaa&layout=compact&langs_count=5&theme=dracula" height="150" />
 </div>
-
-###
 
 <br clear="both">
 
+---
+
+## 🐍 Snake Contribution
+
 <img src="https://raw.githubusercontent.com/Ethrineaa/Ethrineaa/output/snake.svg" alt="Snake animation" />
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ethrineaa/Ethrineaa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ethrineaa/Ethrineaa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ethrineaa/Ethrineaa/output/pacman-contribution-graph.svg">
-</picture>
+## 👾 Pacman Contribution
+
+<img src="https://raw.githubusercontent.com/Ethrineaa/Ethrineaa/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
