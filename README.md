@@ -57,13 +57,8 @@
 <br clear="both">
 
 ---
+## 🐍 Snake
+![snake](https://raw.githubusercontent.com/Ethrineaa/Ethrineaa/output/snake/snake.svg)
 
-## 🐍 Snake Contribution
-
-<img src="https://raw.githubusercontent.com/Ethrineaa/Ethrineaa/output/snake.svg" alt="Snake animation" />
-
----
-
-## 👾 Pacman Contribution
-
-<img src="https://raw.githubusercontent.com/Ethrineaa/Ethrineaa/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
+## 👾 Pacman
+![pacman](https://raw.githubusercontent.com/Ethrineaa/Ethrineaa/output/pacman/pacman.svg)
