@@ -1,4 +1,4 @@
-name: Generate pacman contribution graph
+name: Generate Pacman Contribution Graph
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  pacman:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -16,13 +16,13 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Ethrineaa
-          theme: github
+          output_dir: dist/pacman
 
-      - name: Deploy to output branch
+      - name: Deploy pacman to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: .
+          build_dir: dist
           keep_files: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
