@@ -16,6 +16,6 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Ethrineaa
+          target_branch: output
           outputs: |
             snake/snake.svg
-          target_branch: output

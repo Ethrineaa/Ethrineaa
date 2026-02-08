@@ -16,6 +16,6 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Ethrineaa
+          target_branch: output
           outputs: |
             pacman/pacman.svg
-          target_branch: output
