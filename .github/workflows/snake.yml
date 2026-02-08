@@ -5,17 +5,21 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   snake:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: output
 
       - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: Ethrineaa
-          target_branch: output
           outputs: |
             snake/snake.svg

@@ -14,11 +14,12 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: output
 
       - name: Generate pacman
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Ethrineaa
-          target_branch: output
           outputs: |
             pacman/pacman.svg
