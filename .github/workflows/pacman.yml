@@ -1,14 +1,12 @@
 name: Generate pacman animation
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "* */12 * * *"
-
   workflow_dispatch:
-
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
@@ -18,16 +16,26 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate pacman-contribution-graph.svg
+      - uses: actions/checkout@v4
+
+      - name: Generate pacman
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
+      - name: Create dist folder
+        run: mkdir -p dist
 
-      - name: push pacman-contribution-graph.svg to the output branch
+      - name: Move pacman files to dist
+        run: |
+          mv pacman-contribution-graph.svg dist/pacman.svg
+          mv pacman-contribution-graph-dark.svg dist/pacman-dark.svg
+
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
